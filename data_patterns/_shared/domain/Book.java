@@ -1,4 +1,4 @@
-package data_accessor.domain;
+package _shared.domain;
 
 public class Book {
     private String id;

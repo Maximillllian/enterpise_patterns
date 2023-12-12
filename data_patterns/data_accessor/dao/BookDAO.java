@@ -1,6 +1,6 @@
 package data_accessor.dao;
 
-import data_accessor.domain.Book;
+import _shared.domain.Book;
 
 import java.util.List;
 

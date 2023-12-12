@@ -1,6 +1,6 @@
 package data_accessor.dao;
 
-import data_accessor.domain.User;
+import _shared.domain.User;
 
 import java.util.List;
 
