@@ -1,6 +1,6 @@
 package _shared.domain;
 
 public class Book {
-    private String id;
+    private Long id;
     private String name;
 }
