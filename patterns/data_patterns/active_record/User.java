@@ -1,7 +1,6 @@
 package active_record;
 
 import _shared.db.DataBase;
-import row_data_gateway.gateway.UserGateway;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
