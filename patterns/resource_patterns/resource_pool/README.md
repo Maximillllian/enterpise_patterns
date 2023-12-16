@@ -1,0 +1,1 @@
+Реализовать Resource Pool паттерн для Connection
